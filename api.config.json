@@ -1,0 +1,12 @@
+{
+  "swaggerURL": [
+    "http://chenguanadmin.gzbigbang.cn/v2/api-docs"
+  ],
+  "basicAuthor": false,
+  "version": "js",
+  "output": "src/api.js",
+  "axiosFrom": "axios",
+  "customResponse": "RESPONSE",
+  "addHostToBaseUrl": false,
+  "protocol": "https"
+}

@@ -1,0 +1,5 @@
+@ratio: 0.333;
+
+.pxtorem(@name, @px) {
+   @name: unit(@px * @ratio , px);
+}
